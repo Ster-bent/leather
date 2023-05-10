@@ -9,3 +9,6 @@
     border-left: 100px solid transparent;
     border-bottom: 100px solid transparent;
 }
+.container {
+    border: 5px solid blue;
+}
